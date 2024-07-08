@@ -1,4 +1,4 @@
-## ℹ️Hi, I'm quocsi <img src="https://imgs.search.brave.com/RDb9PMQjKQRCulMw7TFLBEYinPDHzcc1Tu1rwVB9kfk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nbWFydC5jb20v/ZmlsZXMvMjIvQ2hv/cHBlci1QTkctSXNv/bGF0ZWQtSEQucG5n" width="40px" >
+## ℹ️Hi, I'm quocsi <img src="https://img.pokemondb.net/sprites/scarlet-violet/normal/1x/gengar.png" width="40px" >
 My name is Tran Quoc Si, I am studying Software engineering at SGU. I from Vietnam and my goal is to become a software engineer
 
 ```golang
