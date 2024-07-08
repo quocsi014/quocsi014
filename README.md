@@ -1,7 +1,10 @@
-## Hi there 👋
-```python
-class quocsi:
-  def __init__(self):
-    self.hobbies = ["basketball", "programming", "music", "Youtube"]
-    self.programming_languages = ["Python", "TypeScript", "JavaScript", "Swift"]
+## Hi, I'm quocsi
+```golang
+quocsi := Dev{
+  Name: "Trần Quốc Sĩ"
+  BornIn: 2003
+  University: "SGU"
+  Class: 2021
+  ProgramingLanguages: []string{"Golang", "Java", "Javascript"}
+}
 ```
