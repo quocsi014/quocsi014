@@ -7,7 +7,7 @@ quocsi := Dev{
   BornIn: 2003,
   University: "SGU",
   Class: 2021,
-  ProgramingLanguages: []string{"Golang", "Java", "Javascript"},
+  ProgrammingLanguages: []string{"Golang", "Java", "Javascript"},
 }
 ```
 
