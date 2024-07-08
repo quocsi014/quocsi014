@@ -1,4 +1,4 @@
-## ℹ️ Hi, I'm quocsi <img src="https://imgs.search.brave.com/sszAt-RAH-mD9oEuFClMRjt6LartEw-D7wO92vBeVPI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nbWFydC5jb20v/ZmlsZXMvMjIvQ2hv/cHBlci1QTkctUGhv/dG8ucG5n" width="64px" >
+## ℹ️ Hi, I'm quocsi <img src="https://w7.pngwing.com/pngs/910/432/png-transparent-tony-tony-chopper-art-one-piece-chopper-mammal-hat-carnivoran-thumbnail.png" width="64px" >
 My name is Tran Quoc Si, I am studying Software engineering at SGU. I from Vietnam and my goal is to become a software engineer
 
 ```golang
