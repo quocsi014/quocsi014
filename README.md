@@ -1,4 +1,4 @@
-## 👨‍💻Hi, I'm quocsi <img src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif" width="70px" >
+## 👨‍💻Hi, I'm quocsi <img src="https://media.tenor.com/dHk-LfzHrtwAAAAj/linux-computer.gif" width="40px" >
 My name is Tran Quoc Si, I am studying Software engineering at SGU. I from Vietnam and my goal is to become a software engineer
 
 ```golang
