@@ -22,7 +22,6 @@ quocsi := Dev{
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs"  height="60" />
 <img src="https://img.icons8.com/?size=80&id=8rKdRqZFLurS&format=png" alt="mongodb"  height="60" />
 <img src="https://logowik.com/content/uploads/images/mysql8604.logowik.com.webp" alt="mysql"  height="60" />
-<img src="https://img.icons8.com/?size=48&id=38561&format=png" alt="postgresql"  height="60" />
 <img src="https://img.icons8.com/?size=48&id=pHS3eRpynIRQ&format=png" alt="redis"  height="60" />
 <img src="https://img.icons8.com/?size=80&id=zFAYIdFZlGxP&format=png" alt="docker"  height="60" />
 <img src="https://img.icons8.com/?size=48&id=20906&format=png" alt="git" height="60" />
