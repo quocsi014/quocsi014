@@ -28,5 +28,4 @@ quocsi := Dev{
 <img src="https://img.icons8.com/?size=48&id=20906&format=png" alt="git" height="60" />
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash"  height="60" />
 <img src="https://img.icons8.com/?size=48&id=fG5Tnj4ARIoI&format=gif" alt="linux" height="60" />
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"  height="60" />
 </p>
