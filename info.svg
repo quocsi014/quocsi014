@@ -63,7 +63,7 @@
 					align-items: left;
 					justify-content: center;
 					margin: 0;
-					width: 100%;
+					width: calc(100%-80px);
 					height: fit;
           background-position: center;
 					border-radius: 10px;
