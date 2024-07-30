@@ -1,6 +1,6 @@
 ## 👨‍💻Hi, I'm quocsi <img src="https://media.tenor.com/dHk-LfzHrtwAAAAj/linux-computer.gif" height="50px" >
 
-<img src="./quocsi.svg" >
+<img src="./quocsi2.svg" >
 
 ```golang
 quocsi := Dev{
