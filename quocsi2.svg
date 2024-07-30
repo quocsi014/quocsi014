@@ -34,7 +34,6 @@
 background: rgb(247,249,250);
 border-radius: 16px;
         box-sizing:border-box;
-border: 1px solid rgba(195, 195, 195, 0.8);
     }
     .text {
       display: flex;
