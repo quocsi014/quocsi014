@@ -31,11 +31,9 @@
       width: 100%;
       height:fit;
       padding:30px 0;
-      //background-color: white;
-        /* From https://css.glass */
 background: rgb(247,249,250);
 border-radius: 16px;
-box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+        box-sizing:border-box;
 border: 1px solid rgba(195, 195, 195, 0.8);
     }
     .text {
