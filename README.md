@@ -1,5 +1,4 @@
-## 👨‍💻About me <img src="https://media.tenor.com/dHk-LfzHrtwAAAAj/linux-computer.gif" height="50px" >
-
+## 👨‍💻About me
 <img src="./quocsi2.svg" >
 
 ```golang
