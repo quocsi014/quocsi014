@@ -42,13 +42,13 @@ border-radius: 16px;
       padding-top:10px
     }
     .text1{
-      width:966px;
-      animation: typing 2.3s steps(23) ,cursor-display 2.3s step-end 1;
+      width:1134px;
+      animation: typing 2.7s steps(27) ,cursor-display 2.7s step-end 1;
     }
     .text2{
       width:0px;
       animation: typing2 2.0s steps(20) forwards ,cursor-display 2s step-end 1, cursor-flick 0.4s step-end infinite alternate;
-      animation-delay:2.3s,2.3s,4.3s;
+      animation-delay:2.7s,2.7s,4.7s;
     }
     
     .letter {
@@ -64,8 +64,12 @@ border-radius: 16px;
       </style>
 
       <div class="container">
-        <div style="width:966px">
+        <div style="width:1134px">
           <div class="text text1">
+            <div class="letter">H</div>
+            <div class="letter">i</div>
+            <div class="letter">,</div>
+            <div class="letter">_</div>
             <div class="letter">M</div>
             <div class="letter">y</div>
             <div class="letter">_</div>
