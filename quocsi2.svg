@@ -163,7 +163,7 @@ border: 1px solid rgba(195, 195, 195, 0.8);
 }
 
 @keyframes press{
-  1%{background-color: #003366; color: white}
+  1%{background-color: #003366; color: white; font-weight: 900;}
 }
 .hpress { animation: press 0.2s 0s ease; }
 .ipress { animation: press 0.2s 0.2s ease, press 0.2s 0.8s ease, press 0.2s 4s ease; }
