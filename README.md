@@ -16,8 +16,9 @@ quocsi := Dev{
   
 <img src="https://media.tenor.com/TCMWkxIkF9IAAAAj/dancing-gopher.gif" alt="go"  height="60" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"  height="60" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" alt="javascript"  height="60" />
-<img src="https://www.svgrepo.com/show/376350/spring.svg" alt="spring"  height="60" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" alt="javascript"  height="60" />&#160;
+<img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" height="60"/>&#160;
+<img src="https://www.svgrepo.com/show/376350/spring.svg" alt="spring"  height="60" />&#160;
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs"  height="60" />
 <img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_logotype_emblem-700x626.png" alt="react" height="60" />
 <img src="https://www.svgrepo.com/show/333609/tailwind-css.svg" alt="tailwind-css" height="60"/>
