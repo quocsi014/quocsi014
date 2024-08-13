@@ -1,4 +1,4 @@
-## 👨‍💻About me <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/gengar.gif" height="50px">
+## <img src="https://media.tenor.com/TCMWkxIkF9IAAAAj/dancing-gopher.gif" alt="go"  height="20" /> About me 
 <img src="./quocsi2.svg" >
 
 ```golang
@@ -14,19 +14,19 @@ quocsi := Dev{
 ## 💻Tech Stack
 <p align="center">
   
-<img src="https://media.tenor.com/TCMWkxIkF9IAAAAj/dancing-gopher.gif" alt="go"  height="60" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"  height="60" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" alt="javascript"  height="60" />&#160;
-<img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" height="60"/>&#160;
-<img src="https://www.svgrepo.com/show/376350/spring.svg" alt="spring"  height="60" />&#160;
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs"  height="60" />
-<img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_logotype_emblem-700x626.png" alt="react" height="60" />
-<img src="https://www.svgrepo.com/show/333609/tailwind-css.svg" alt="tailwind-css" height="60"/>
-<img src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-3629020-3030245.png?f=webp&w=256" alt="mongodb"  height="60" />
-<img src="https://logowik.com/content/uploads/images/mysql8604.logowik.com.webp" alt="mysql"  height="60" />
-<img src="https://www.svgrepo.com/show/303460/redis-logo.svg" alt="redis"  height="60" />
-<img src="https://img.icons8.com/?size=80&id=zFAYIdFZlGxP&format=png" alt="docker"  height="60" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png?20220905010122" alt="git" height="60" />
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash"  height="60" />
-<img src="https://cdn.iconscout.com/icon/free/png-512/free-linux-21-1174928.png?f=webp&w=256" alt="linux" height="60" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GoLang.svg" alt="go"  height="60" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" alt="java"  height="60" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" alt="javascript"  height="60" />
+<img src="https://preview.redd.it/3dto8z3ma7671.png?width=1080&crop=smart&auto=webp&s=8902c5c936f5da1136ac47d8434e29b08454401a" height="60"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Spring-Dark.svg" alt="spring"  height="60" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Light.svg" alt="nodejs"  height="60" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" alt="react" height="60" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Dark.svg" alt="tailwind-css" height="60"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Light.svg" alt="mysql"  height="60" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Redis-Dark.svg" alt="redis"  height="60" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MongoDB.svg" alt="mongodb"  height="60" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg" alt="docker"  height="60" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" alt="git" height="60" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bash-Light.svg" alt="bash"  height="60" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Linux-Light.svg" alt="linux" height="60" />
 </p>
