@@ -7,7 +7,7 @@ quocsi := Dev{
   BornIn: 2003,
   University: "SGU",
   Class: 2021,
-  ProgrammingLanguages: []string{"Golang", "Java", "Javascript"},
+  ProgrammingLanguages: []string{"Golang", "Java", "JS/TS"},
 }
 ```
 
@@ -17,7 +17,7 @@ quocsi := Dev{
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GoLang.svg" alt="go"  height="60" />
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" alt="java"  height="60" />
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" alt="javascript"  height="60" />
-<img src="https://preview.redd.it/3dto8z3ma7671.png?width=1080&crop=smart&auto=webp&s=8902c5c936f5da1136ac47d8434e29b08454401a" height="60"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NestJS-Light.svg" height="60"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Spring-Dark.svg" alt="spring"  height="60" />
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Light.svg" alt="nodejs"  height="60" />
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" alt="react" height="60" />
