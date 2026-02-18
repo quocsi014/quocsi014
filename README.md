@@ -5,8 +5,6 @@
 quocsi := Dev{
   Name: "Trần Quốc Sĩ",
   BornIn: 2003,
-  University: "SGU",
-  Class: 2021,
   ProgrammingLanguages: []string{"Golang", "JS/TS"},
 }
 ```
